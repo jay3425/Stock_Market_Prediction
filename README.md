@@ -95,7 +95,8 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 
 > Include here:
 
-* Login page[](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(452).png)
+* Login page
+![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(452).png)
 * Dashboard layout()
 * Prediction output()
 * Forecasting graphs()
