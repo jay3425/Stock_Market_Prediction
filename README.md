@@ -95,11 +95,11 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 
 > Include here:
 
-* Login page
-* Dashboard layout
-* Prediction output
-* Forecasting graphs
-* Model accuracy results
+* Login page()
+* Dashboard layout()
+* Prediction output()
+* Forecasting graphs()
+* Model accuracy results()
 
 ---
 
