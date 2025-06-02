@@ -100,8 +100,11 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 * Dashboard layout
 ![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(455).png)
 * Prediction output
+![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(456).png)
 * Forecasting graphs
-* Model accuracy results
+![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(457).png)
+* Market Cap/Yearly Sector growth
+* ![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(458).png)
 
 ---
 
