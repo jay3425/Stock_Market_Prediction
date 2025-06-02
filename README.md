@@ -105,7 +105,7 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 
 ## 👨‍💻 Author
 
-**\Jay dengle** – *Aspiring Data Analyst / ML Engineer*
+**Jay dengle** – *Aspiring Data Analyst / ML Engineer*
 📧 [jaydengle2005@gmail.com](mailto:jaydengle2005@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/jay-anil-dengle-049952337/) | [GitHub](https://github.com/jay3425)
 
