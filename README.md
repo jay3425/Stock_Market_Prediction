@@ -107,7 +107,7 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 
 **\[Your Name]** – *Aspiring Data Analyst / ML Engineer*
 📧 [jaydengle2005@gmail.com](mailto:jaydengle2005@gmail.com)
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+🌐 [LinkedIn](https://www.linkedin.com/in/jay-anil-dengle-049952337/) | [GitHub](https://github.com/jay3425)
 
 ---
 
@@ -117,12 +117,4 @@ This project is for educational and demonstration purposes. Feel free to fork, m
 
 ---
 
-```
 
-Let me know if you want:
-- A shorter or simpler version.
-- Markdown with images embedded.
-- A version for Hugging Face deployment or portfolio showcase.
-
-I can also generate a visual **project banner** for GitHub!
-```
