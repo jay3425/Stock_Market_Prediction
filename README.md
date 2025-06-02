@@ -95,7 +95,7 @@ An interactive, AI-powered stock prediction and visualization dashboard built wi
 
 > Include here:
 
-* Login page()
+* Login page[](Screenshot (452).png)
 * Dashboard layout()
 * Prediction output()
 * Forecasting graphs()
