@@ -1,4 +1,4 @@
-
+![](![](https://github.com/jay3425/Stock_Market_Prediction/blob/my-new-branch/Screenshot%20(452).png))
 # 📈 Stock Market Prediction Dashboard
 
 An interactive, AI-powered stock prediction and visualization dashboard built with Python and Tkinter. This system offers a suite of tools for stock analysis, including price forecasting, buy/sell signals, market cap trends, model accuracy testing, and secure login authentication.
